@@ -1,3 +1,3 @@
 # my first readme file
 
-welcome! [code institute](codeinstitute.net)
+welcome! [code institute](https://codeinstitute.net/)
